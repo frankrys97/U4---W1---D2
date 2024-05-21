@@ -18,7 +18,6 @@ public class esercizio4 {
     public static void countdownInputNumber(Scanner sc) {
         int num = Integer.parseInt(sc.nextLine());
         for (int i = num; i >= 0; i--) {
-
             System.out.println(i);
 
 

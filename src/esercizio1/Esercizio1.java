@@ -14,8 +14,8 @@ public class Esercizio1 {
 
     }
 
-    public static boolean isEven(int number) {
-        if (number % 2 == 0) {
+    public static boolean isEven(String str) {
+        if (str.length() % 2 == 0) {
             return true;
         } else {
             return false;
