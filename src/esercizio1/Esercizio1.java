@@ -3,8 +3,8 @@ package esercizio1;
 public class Esercizio1 {
     public static void main(String[] args) {
 
-        System.out.println(isEven(5));
-        System.out.println(isEven(4));
+        System.out.println(isEven("ciao"));
+        System.out.println(isEven("amico"));
 
 
         System.out.println(leapYear(2000));
